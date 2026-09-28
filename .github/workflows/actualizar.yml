@@ -1,0 +1,76 @@
+# Actualiza los datos de la Liga y publica la web.
+# Corre sola dos veces por día, cada vez que se sube un cambio (por ejemplo, fotos
+# nuevas en la galería) y cuando se toca "Run workflow" en la pestaña Actions.
+name: Actualizar web de Católica
+
+on:
+  schedule:
+    - cron: "7 11 * * *"   # 08:07 en Montevideo
+    - cron: "7 23 * * *"   # 20:07 en Montevideo
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: web-catolica
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Leer los datos de la Liga
+        # Si la Liga no responde cuando se suben fotos, igual se publica la galería.
+        continue-on-error: ${{ github.event_name == 'push' }}
+        run: python3 actualizar.py
+
+      - name: Revisar que galeria.json esté bien escrito
+        run: |
+          python3 - <<'EOF'
+          import json, sys
+          try:
+              items = json.load(open('galeria.json', encoding='utf-8'))
+          except ValueError as e:
+              sys.exit(f'galeria.json tiene un error de formato (revisá comas y comillas): {e}')
+          if not isinstance(items, list):
+              sys.exit('galeria.json tiene que empezar con [ y terminar con ]')
+          for i, g in enumerate(items, 1):
+              if g.get('tipo') not in ('foto', 'video') or not g.get('src'):
+                  sys.exit(f'La entrada {i} de galeria.json necesita "tipo" (foto o video) y "src"')
+          print(f'Galería OK: {len(items)} elementos')
+          EOF
+
+      - name: Guardar los datos nuevos
+        run: |
+          if git diff --quiet -- datos.json; then
+            echo "Sin cambios en los datos."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add datos.json
+            git commit -m "Datos de la Liga al $(TZ=America/Montevideo date +%d/%m/%Y)"
+            git push
+          fi
+
+      - name: Preparar la publicación
+        uses: actions/configure-pages@v5
+
+      - name: Subir la web
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Publicar
+        id: publicar
+        uses: actions/deploy-pages@v4

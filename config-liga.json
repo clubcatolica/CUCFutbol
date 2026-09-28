@@ -1,0 +1,100 @@
+{
+  "_leeme": "Qué series de la Liga lee la tarea diaria. La primera serie de cada categoría es la fase actual. Cuando la Liga pasa a otra fase, se agrega su serie arriba de todo.",
+  "temporada": "113",
+  "deporte": "F",
+  "nombresDelClub": [
+    "CLUB UNIVERSIDAD CATOLICA",
+    "C. U. CATOLICA AZUL"
+  ],
+  "categorias": {
+    "mayor": {
+      "nombre": "Mayor",
+      "divisional": "Divisional B",
+      "torneo": "Copa Pilsen 0.0%",
+      "fase": "Segunda rueda: Permanencia y Descensos",
+      "series": [
+        {
+          "torneo": "2",
+          "categoria": "1",
+          "serie": "BPD",
+          "nombre": "Permanencia y Descensos",
+          "ronda": "Permanencia"
+        },
+        {
+          "torneo": "2",
+          "categoria": "1",
+          "serie": "B",
+          "nombre": "Primera Rueda (final)",
+          "ronda": "1ª rueda",
+          "zonas": {
+            "clasifican": 8,
+            "etiquetaArriba": "Pasaron a Título y Ascensos",
+            "descienden": 8,
+            "etiquetaAbajo": "Pasaron a Permanencia y Descensos"
+          }
+        }
+      ]
+    },
+    "reserva": {
+      "nombre": "Reserva",
+      "divisional": "Divisional B",
+      "torneo": "Copa Antel",
+      "fase": "Segunda rueda: Permanencia y Descensos",
+      "series": [
+        {
+          "torneo": "2B",
+          "categoria": "2",
+          "serie": "RSBPD",
+          "nombre": "Permanencia y Descensos",
+          "ronda": "Permanencia"
+        },
+        {
+          "torneo": "2B",
+          "categoria": "2",
+          "serie": "RS2",
+          "nombre": "Primera Rueda (final)",
+          "ronda": "1ª rueda",
+          "zonas": {
+            "clasifican": 8,
+            "etiquetaArriba": "Pasaron a Título y Ascensos",
+            "descienden": 8,
+            "etiquetaAbajo": "Pasaron a Permanencia y Descensos"
+          }
+        }
+      ]
+    },
+    "reservaAzul": {
+      "nombre": "Reserva Azul",
+      "divisional": "Divisional D",
+      "torneo": "Copa Antel",
+      "fase": "Segunda rueda: Copa de Plata y Permanencia",
+      "series": [
+        {
+          "torneo": "2B",
+          "categoria": "2",
+          "serie": "RSDPD",
+          "nombre": "Copa de Plata y Permanencia",
+          "ronda": "Copa de Plata"
+        },
+        {
+          "torneo": "2B",
+          "categoria": "2",
+          "serie": "RS32",
+          "nombre": "Primera Rueda, Serie 1 (final)",
+          "ronda": "1ª rueda, Serie 1"
+        }
+      ]
+    }
+  },
+  "canchas": {
+    "COM. CLUB UNIVERSIDAD CATOLICA": "Complejo CUC",
+    "HARAS CUC": "Haras CUC",
+    "CANCHA A FIJAR": "A confirmar",
+    "CLUB ALEMAN": "Club Alemán",
+    "COLEGIO PIO": "Colegio Pío",
+    "FUERZA AEREA": "Fuerza Aérea",
+    "ELBIO FERNANDEZ": "Elbio Fernández",
+    "COMPLEJO DEPORTIVO H3O": "Complejo Deportivo H3O",
+    "LIMBURGO -DR.J.L.PISCIOTTANO-": "Limburgo (Dr. J. L. Pisciottano)"
+  }
+}

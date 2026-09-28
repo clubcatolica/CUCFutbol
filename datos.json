@@ -1,0 +1,1559 @@
+{
+ "actualizado": "28/09/2026",
+ "equipos": {
+  "cuc": {
+   "nombre": "Universidad Católica",
+   "corto": "CUC"
+  },
+  "elbiofernandez": {
+   "nombre": "Elbio Fernández",
+   "corto": "EF"
+  },
+  "oldbrendansclu": {
+   "nombre": "Old Brendans",
+   "corto": "OB"
+  },
+  "alemanuniversi": {
+   "nombre": "Alemán Universitario",
+   "corto": "ALE"
+  },
+  "sanisidrolomas": {
+   "nombre": "San Isidro Lomas",
+   "corto": "SIL"
+  },
+  "ceibosclub": {
+   "nombre": "Ceibos Club",
+   "corto": "CEI"
+  },
+  "sagradafamilia": {
+   "nombre": "Sagrada Familia",
+   "corto": "SF"
+  },
+  "nauticocarrasc": {
+   "nombre": "Náutico Carrasco y P. Gorda",
+   "corto": "NCP"
+  },
+  "jmlm": {
+   "nombre": "J.M.L.M.",
+   "corto": "JML"
+  },
+  "independiente": {
+   "nombre": "Independiente",
+   "corto": "I"
+  },
+  "olimar": {
+   "nombre": "Olimar",
+   "corto": "O"
+  },
+  "sanjuanbautist": {
+   "nombre": "San Juan Bautista",
+   "corto": "SJB"
+  },
+  "circulodetenis": {
+   "nombre": "Círculo de Tenis",
+   "corto": "CTM"
+  },
+  "clubjesusmaria": {
+   "nombre": "Jesús María",
+   "corto": "JM"
+  },
+  "centrocristoba": {
+   "nombre": "Cristóbal Colón",
+   "corto": "CCC"
+  },
+  "citypark": {
+   "nombre": "City Park",
+   "corto": "CP"
+  },
+  "urundayunivers": {
+   "nombre": "Urunday Universitario",
+   "corto": "U"
+  },
+  "oldchristiansv": {
+   "nombre": "Old Christians Verde",
+   "corto": "OCV"
+  },
+  "oldchristiansb": {
+   "nombre": "Old Christians Blanco",
+   "corto": "OCB"
+  },
+  "hebraicauniver": {
+   "nombre": "Hebraica Universitario",
+   "corto": "H"
+  },
+  "santaelenalago": {
+   "nombre": "Santa Elena Lagomar",
+   "corto": "SEL"
+  },
+  "oldivy": {
+   "nombre": "Old Ivy",
+   "corto": "OI"
+  },
+  "colegiosantael": {
+   "nombre": "Colegio Santa Elena",
+   "corto": "CSE"
+  },
+  "crandonunivers": {
+   "nombre": "Crandon Universitario",
+   "corto": "C"
+  },
+  "juanxxiii": {
+   "nombre": "Juan XXIII",
+   "corto": "JX"
+  },
+  "angloschooluni": {
+   "nombre": "Anglo School",
+   "corto": "ANG"
+  },
+  "yaguari": {
+   "nombre": "Yaguarí",
+   "corto": "Y"
+  },
+  "sanjosedelapro": {
+   "nombre": "San José de la Providencia",
+   "corto": "SJP"
+  },
+  "trouvilleunive": {
+   "nombre": "Trouville Universitario",
+   "corto": "T"
+  },
+  "sancono": {
+   "nombre": "San Cono",
+   "corto": "SC"
+  },
+  "latinofutbolcl": {
+   "nombre": "Latino Fútbol Club",
+   "corto": "LFC"
+  },
+  "varelauniversi": {
+   "nombre": "Varela Universitario",
+   "corto": "V"
+  },
+  "clubatleticoli": {
+   "nombre": "Limburgo",
+   "corto": "LIM"
+  },
+  "nuestraseorade": {
+   "nombre": "N.S. de Lourdes",
+   "corto": "NSL"
+  },
+  "clubfuerzaaere": {
+   "nombre": "Fuerza Aérea",
+   "corto": "FA"
+  },
+  "isasauniversit": {
+   "nombre": "ISASA Universitario",
+   "corto": "I"
+  },
+  "cervantesunive": {
+   "nombre": "Cervantes Universitario",
+   "corto": "C"
+  },
+  "maristasdeport": {
+   "nombre": "Maristas Deportivo",
+   "corto": "MD"
+  },
+  "arquitecturajr": {
+   "nombre": "Arquitectura Jrs.",
+   "corto": "ARQ"
+  },
+  "younguniversit": {
+   "nombre": "Young Universitario",
+   "corto": "Y"
+  }
+ },
+ "categorias": {
+  "mayor": {
+   "nombre": "Mayor",
+   "divisional": "Divisional B",
+   "torneo": "Copa Pilsen 0.0%",
+   "fase": "Segunda rueda: Permanencia y Descensos",
+   "ordenOficial": true,
+   "tablas": [
+    {
+     "nombre": "Permanencia y Descensos",
+     "ronda": "Permanencia",
+     "zonas": {},
+     "acumula": true,
+     "tabla": [
+      {
+       "equipo": "circulodetenis",
+       "pj": 16,
+       "g": 5,
+       "e": 3,
+       "p": 8,
+       "gf": 19,
+       "gc": 23
+      },
+      {
+       "equipo": "olimar",
+       "pj": 16,
+       "g": 5,
+       "e": 2,
+       "p": 9,
+       "gf": 21,
+       "gc": 26
+      },
+      {
+       "equipo": "centrocristoba",
+       "pj": 16,
+       "g": 4,
+       "e": 4,
+       "p": 8,
+       "gf": 23,
+       "gc": 34
+      },
+      {
+       "equipo": "clubjesusmaria",
+       "pj": 16,
+       "g": 4,
+       "e": 3,
+       "p": 9,
+       "gf": 15,
+       "gc": 27
+      },
+      {
+       "equipo": "citypark",
+       "pj": 16,
+       "g": 4,
+       "e": 2,
+       "p": 10,
+       "gf": 16,
+       "gc": 34
+      },
+      {
+       "equipo": "cuc",
+       "pj": 16,
+       "g": 4,
+       "e": 0,
+       "p": 12,
+       "gf": 21,
+       "gc": 35
+      }
+     ]
+    },
+    {
+     "nombre": "Primera Rueda (final)",
+     "ronda": "1ª rueda",
+     "zonas": {
+      "clasifican": 8,
+      "etiquetaArriba": "Pasaron a Título y Ascensos",
+      "descienden": 8,
+      "etiquetaAbajo": "Pasaron a Permanencia y Descensos"
+     },
+     "acumula": false,
+     "tabla": [
+      {
+       "equipo": "elbiofernandez",
+       "pj": 15,
+       "g": 9,
+       "e": 4,
+       "p": 2,
+       "gf": 29,
+       "gc": 16
+      },
+      {
+       "equipo": "oldbrendansclu",
+       "pj": 15,
+       "g": 8,
+       "e": 5,
+       "p": 2,
+       "gf": 25,
+       "gc": 14
+      },
+      {
+       "equipo": "alemanuniversi",
+       "pj": 15,
+       "g": 8,
+       "e": 5,
+       "p": 2,
+       "gf": 26,
+       "gc": 20
+      },
+      {
+       "equipo": "sanisidrolomas",
+       "pj": 15,
+       "g": 8,
+       "e": 4,
+       "p": 3,
+       "gf": 22,
+       "gc": 13
+      },
+      {
+       "equipo": "ceibosclub",
+       "pj": 15,
+       "g": 8,
+       "e": 3,
+       "p": 4,
+       "gf": 29,
+       "gc": 21
+      },
+      {
+       "equipo": "sagradafamilia",
+       "pj": 15,
+       "g": 7,
+       "e": 4,
+       "p": 4,
+       "gf": 26,
+       "gc": 17
+      },
+      {
+       "equipo": "nauticocarrasc",
+       "pj": 15,
+       "g": 7,
+       "e": 3,
+       "p": 5,
+       "gf": 26,
+       "gc": 16
+      },
+      {
+       "equipo": "jmlm",
+       "pj": 15,
+       "g": 5,
+       "e": 5,
+       "p": 5,
+       "gf": 22,
+       "gc": 15
+      },
+      {
+       "equipo": "independiente",
+       "pj": 15,
+       "g": 5,
+       "e": 5,
+       "p": 5,
+       "gf": 20,
+       "gc": 27
+      },
+      {
+       "equipo": "olimar",
+       "pj": 15,
+       "g": 5,
+       "e": 2,
+       "p": 8,
+       "gf": 21,
+       "gc": 25
+      },
+      {
+       "equipo": "sanjuanbautist",
+       "pj": 15,
+       "g": 4,
+       "e": 4,
+       "p": 7,
+       "gf": 21,
+       "gc": 23
+      },
+      {
+       "equipo": "circulodetenis",
+       "pj": 15,
+       "g": 4,
+       "e": 3,
+       "p": 8,
+       "gf": 17,
+       "gc": 23
+      },
+      {
+       "equipo": "clubjesusmaria",
+       "pj": 15,
+       "g": 4,
+       "e": 3,
+       "p": 8,
+       "gf": 15,
+       "gc": 25
+      },
+      {
+       "equipo": "centrocristoba",
+       "pj": 15,
+       "g": 3,
+       "e": 4,
+       "p": 8,
+       "gf": 20,
+       "gc": 33
+      },
+      {
+       "equipo": "cuc",
+       "pj": 15,
+       "g": 4,
+       "e": 0,
+       "p": 11,
+       "gf": 20,
+       "gc": 32
+      },
+      {
+       "equipo": "citypark",
+       "pj": 15,
+       "g": 3,
+       "e": 2,
+       "p": 10,
+       "gf": 15,
+       "gc": 34
+      }
+     ]
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": 1,
+     "ronda": "Permanencia",
+     "dia": "2026-09-27",
+     "hora": "11:15",
+     "rival": "centrocristoba",
+     "condicion": "V",
+     "cancha": "Colegio Pío",
+     "gf": 1,
+     "gc": 3
+    },
+    {
+     "fecha": 2,
+     "ronda": "Permanencia",
+     "dia": "2026-10-04",
+     "hora": "",
+     "rival": "sanjuanbautist",
+     "condicion": "L",
+     "cancha": "A confirmar"
+    },
+    {
+     "fecha": 3,
+     "ronda": "Permanencia",
+     "dia": "2026-10-11",
+     "hora": "11:15",
+     "rival": "citypark",
+     "condicion": "V",
+     "cancha": "Centro Alto Rendimiento"
+    },
+    {
+     "fecha": 4,
+     "ronda": "Permanencia",
+     "dia": "2026-10-18",
+     "hora": "",
+     "rival": "olimar",
+     "condicion": "L",
+     "cancha": "A confirmar"
+    },
+    {
+     "fecha": 5,
+     "ronda": "Permanencia",
+     "dia": "2026-10-25",
+     "hora": "11:15",
+     "rival": "independiente",
+     "condicion": "V",
+     "cancha": "Complejo Independiente Univ."
+    },
+    {
+     "fecha": 6,
+     "ronda": "Permanencia",
+     "dia": "2026-11-01",
+     "hora": "",
+     "rival": "circulodetenis",
+     "condicion": "L",
+     "cancha": "A confirmar"
+    },
+    {
+     "fecha": 7,
+     "ronda": "Permanencia",
+     "dia": "2026-11-08",
+     "hora": "",
+     "rival": "clubjesusmaria",
+     "condicion": "L",
+     "cancha": "A confirmar"
+    },
+    {
+     "fecha": 1,
+     "ronda": "1ª rueda",
+     "dia": "2026-04-12",
+     "hora": "09:15",
+     "rival": "circulodetenis",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 0
+    },
+    {
+     "fecha": 2,
+     "ronda": "1ª rueda",
+     "dia": "2026-04-19",
+     "hora": "11:15",
+     "rival": "alemanuniversi",
+     "condicion": "V",
+     "cancha": "Club Alemán",
+     "gf": 1,
+     "gc": 2
+    },
+    {
+     "fecha": 3,
+     "ronda": "1ª rueda",
+     "dia": "2026-04-26",
+     "hora": "09:00",
+     "rival": "olimar",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 3
+    },
+    {
+     "fecha": 4,
+     "ronda": "1ª rueda",
+     "dia": "2026-08-30",
+     "hora": "11:15",
+     "rival": "citypark",
+     "condicion": "V",
+     "cancha": "City Park",
+     "gf": 1,
+     "gc": 2
+    },
+    {
+     "fecha": 5,
+     "ronda": "1ª rueda",
+     "dia": "2026-05-17",
+     "hora": "09:00",
+     "rival": "clubjesusmaria",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 3
+    },
+    {
+     "fecha": 6,
+     "ronda": "1ª rueda",
+     "dia": "2026-05-24",
+     "hora": "11:15",
+     "rival": "nauticocarrasc",
+     "condicion": "V",
+     "cancha": "Comp. Devoto (naut. Pichincha)",
+     "gf": 1,
+     "gc": 2
+    },
+    {
+     "fecha": 7,
+     "ronda": "1ª rueda",
+     "dia": "2026-05-31",
+     "hora": "09:00",
+     "rival": "ceibosclub",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 1
+    },
+    {
+     "fecha": 8,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-07",
+     "hora": "11:15",
+     "rival": "sagradafamilia",
+     "condicion": "V",
+     "cancha": "Complejo Las Casuarinas",
+     "gf": 2,
+     "gc": 3
+    },
+    {
+     "fecha": 9,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-14",
+     "hora": "11:20",
+     "rival": "independiente",
+     "condicion": "V",
+     "cancha": "Complejo Independiente Univ.",
+     "gf": 2,
+     "gc": 3
+    },
+    {
+     "fecha": 10,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-21",
+     "hora": "09:00",
+     "rival": "jmlm",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 3
+    },
+    {
+     "fecha": 11,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-28",
+     "hora": "09:00",
+     "rival": "centrocristoba",
+     "condicion": "V",
+     "cancha": "Colegio Pío",
+     "gf": 3,
+     "gc": 0
+    },
+    {
+     "fecha": 12,
+     "ronda": "1ª rueda",
+     "dia": "2026-09-06",
+     "hora": "09:00",
+     "rival": "elbiofernandez",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 3
+    },
+    {
+     "fecha": 13,
+     "ronda": "1ª rueda",
+     "dia": "2026-09-13",
+     "hora": "11:15",
+     "rival": "oldbrendansclu",
+     "condicion": "V",
+     "cancha": "St. Brendans",
+     "gf": 1,
+     "gc": 4
+    },
+    {
+     "fecha": 14,
+     "ronda": "1ª rueda",
+     "dia": "2026-09-20",
+     "hora": "09:00",
+     "rival": "sanisidrolomas",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 2
+    },
+    {
+     "fecha": 15,
+     "ronda": "1ª rueda",
+     "dia": "2026-08-16",
+     "hora": "09:00",
+     "rival": "sanjuanbautist",
+     "condicion": "V",
+     "cancha": "Complejo Las Casuarinas",
+     "gf": 2,
+     "gc": 1
+    }
+   ],
+   "goleadores": [
+    {
+     "nombre": "Facundo Martinez",
+     "goles": 8
+    }
+   ]
+  },
+  "reserva": {
+   "nombre": "Reserva",
+   "divisional": "Divisional B",
+   "torneo": "Copa Antel",
+   "fase": "Segunda rueda: Permanencia y Descensos",
+   "ordenOficial": true,
+   "tablas": [
+    {
+     "nombre": "Permanencia y Descensos",
+     "ronda": "Permanencia",
+     "zonas": {},
+     "acumula": true,
+     "tabla": [
+      {
+       "equipo": "circulodetenis",
+       "pj": 16,
+       "g": 5,
+       "e": 6,
+       "p": 5,
+       "gf": 22,
+       "gc": 22
+      },
+      {
+       "equipo": "cuc",
+       "pj": 16,
+       "g": 4,
+       "e": 5,
+       "p": 7,
+       "gf": 17,
+       "gc": 24
+      },
+      {
+       "equipo": "santaelenalago",
+       "pj": 16,
+       "g": 4,
+       "e": 5,
+       "p": 7,
+       "gf": 17,
+       "gc": 27
+      },
+      {
+       "equipo": "juanxxiii",
+       "pj": 16,
+       "g": 3,
+       "e": 3,
+       "p": 10,
+       "gf": 19,
+       "gc": 27
+      }
+     ]
+    },
+    {
+     "nombre": "Primera Rueda (final)",
+     "ronda": "1ª rueda",
+     "zonas": {
+      "clasifican": 8,
+      "etiquetaArriba": "Pasaron a Título y Ascensos",
+      "descienden": 8,
+      "etiquetaAbajo": "Pasaron a Permanencia y Descensos"
+     },
+     "acumula": false,
+     "tabla": [
+      {
+       "equipo": "jmlm",
+       "pj": 15,
+       "g": 11,
+       "e": 3,
+       "p": 1,
+       "gf": 35,
+       "gc": 14
+      },
+      {
+       "equipo": "urundayunivers",
+       "pj": 15,
+       "g": 9,
+       "e": 3,
+       "p": 3,
+       "gf": 33,
+       "gc": 11
+      },
+      {
+       "equipo": "oldchristiansv",
+       "pj": 15,
+       "g": 9,
+       "e": 3,
+       "p": 3,
+       "gf": 31,
+       "gc": 13
+      },
+      {
+       "equipo": "independiente",
+       "pj": 15,
+       "g": 7,
+       "e": 4,
+       "p": 4,
+       "gf": 22,
+       "gc": 21
+      },
+      {
+       "equipo": "oldchristiansb",
+       "pj": 15,
+       "g": 6,
+       "e": 5,
+       "p": 4,
+       "gf": 23,
+       "gc": 19
+      },
+      {
+       "equipo": "oldbrendansclu",
+       "pj": 15,
+       "g": 5,
+       "e": 7,
+       "p": 3,
+       "gf": 26,
+       "gc": 19
+      },
+      {
+       "equipo": "elbiofernandez",
+       "pj": 15,
+       "g": 6,
+       "e": 4,
+       "p": 5,
+       "gf": 19,
+       "gc": 21
+      },
+      {
+       "equipo": "hebraicauniver",
+       "pj": 15,
+       "g": 7,
+       "e": 1,
+       "p": 7,
+       "gf": 27,
+       "gc": 33
+      },
+      {
+       "equipo": "circulodetenis",
+       "pj": 15,
+       "g": 5,
+       "e": 6,
+       "p": 4,
+       "gf": 21,
+       "gc": 20
+      },
+      {
+       "equipo": "sanjuanbautist",
+       "pj": 15,
+       "g": 5,
+       "e": 2,
+       "p": 8,
+       "gf": 21,
+       "gc": 21
+      },
+      {
+       "equipo": "santaelenalago",
+       "pj": 15,
+       "g": 4,
+       "e": 5,
+       "p": 6,
+       "gf": 17,
+       "gc": 25
+      },
+      {
+       "equipo": "oldivy",
+       "pj": 15,
+       "g": 5,
+       "e": 1,
+       "p": 9,
+       "gf": 19,
+       "gc": 25
+      },
+      {
+       "equipo": "cuc",
+       "pj": 15,
+       "g": 3,
+       "e": 5,
+       "p": 7,
+       "gf": 15,
+       "gc": 24
+      },
+      {
+       "equipo": "colegiosantael",
+       "pj": 15,
+       "g": 3,
+       "e": 5,
+       "p": 7,
+       "gf": 16,
+       "gc": 26
+      },
+      {
+       "equipo": "crandonunivers",
+       "pj": 15,
+       "g": 3,
+       "e": 3,
+       "p": 9,
+       "gf": 10,
+       "gc": 34
+      },
+      {
+       "equipo": "juanxxiii",
+       "pj": 15,
+       "g": 2,
+       "e": 3,
+       "p": 10,
+       "gf": 17,
+       "gc": 26
+      }
+     ]
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": 1,
+     "ronda": "Permanencia",
+     "dia": "2026-09-26",
+     "hora": "11:15",
+     "rival": "santaelenalago",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 0
+    },
+    {
+     "fecha": 2,
+     "ronda": "Permanencia",
+     "dia": "2026-10-03",
+     "hora": "11:15",
+     "rival": "crandonunivers",
+     "condicion": "V",
+     "cancha": "Campo Dep. Instituto Crandon"
+    },
+    {
+     "fecha": 3,
+     "ronda": "Permanencia",
+     "dia": "2026-10-10",
+     "hora": "11:15",
+     "rival": "colegiosantael",
+     "condicion": "L",
+     "cancha": "Complejo CUC"
+    },
+    {
+     "fecha": 4,
+     "ronda": "Permanencia",
+     "dia": "2026-10-17",
+     "hora": "11:15",
+     "rival": "circulodetenis",
+     "condicion": "V",
+     "cancha": "Complejo Juan XXIII"
+    },
+    {
+     "fecha": 5,
+     "ronda": "Permanencia",
+     "dia": "2026-10-24",
+     "hora": "11:15",
+     "rival": "oldivy",
+     "condicion": "L",
+     "cancha": "Complejo CUC"
+    },
+    {
+     "fecha": 6,
+     "ronda": "Permanencia",
+     "dia": "2026-10-31",
+     "hora": "11:15",
+     "rival": "sanjuanbautist",
+     "condicion": "V",
+     "cancha": "Campo Dep. San Juan Bautista"
+    },
+    {
+     "fecha": 7,
+     "ronda": "Permanencia",
+     "dia": "2026-11-07",
+     "hora": "09:00",
+     "rival": "juanxxiii",
+     "condicion": "V",
+     "cancha": "Complejo Juan XXIII"
+    },
+    {
+     "fecha": 1,
+     "ronda": "1ª rueda",
+     "dia": "2026-04-11",
+     "hora": "09:00",
+     "rival": "oldchristiansv",
+     "condicion": "V",
+     "cancha": "Haras CUC",
+     "gf": 2,
+     "gc": 1
+    },
+    {
+     "fecha": 2,
+     "ronda": "1ª rueda",
+     "dia": "2026-04-18",
+     "hora": "11:15",
+     "rival": "hebraicauniver",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 4,
+     "gc": 1
+    },
+    {
+     "fecha": 3,
+     "ronda": "1ª rueda",
+     "dia": "2026-04-25",
+     "hora": "11:15",
+     "rival": "sanjuanbautist",
+     "condicion": "V",
+     "cancha": "Campo Dep. San Juan Bautista",
+     "gf": 1,
+     "gc": 4
+    },
+    {
+     "fecha": 4,
+     "ronda": "1ª rueda",
+     "dia": "2026-08-29",
+     "hora": "09:00",
+     "rival": "urundayunivers",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 3
+    },
+    {
+     "fecha": 5,
+     "ronda": "1ª rueda",
+     "dia": "2026-05-16",
+     "hora": "11:15",
+     "rival": "oldivy",
+     "condicion": "V",
+     "cancha": "Complejo Deportivo Arrayanes",
+     "gf": 0,
+     "gc": 2
+    },
+    {
+     "fecha": 6,
+     "ronda": "1ª rueda",
+     "dia": "2026-05-23",
+     "hora": "11:15",
+     "rival": "oldbrendansclu",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 0
+    },
+    {
+     "fecha": 7,
+     "ronda": "1ª rueda",
+     "dia": "2026-05-30",
+     "hora": "11:15",
+     "rival": "crandonunivers",
+     "condicion": "V",
+     "cancha": "Campo Dep. Instituto Crandon",
+     "gf": 1,
+     "gc": 1
+    },
+    {
+     "fecha": 8,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-06",
+     "hora": "11:15",
+     "rival": "juanxxiii",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 3
+    },
+    {
+     "fecha": 9,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-13",
+     "hora": "11:15",
+     "rival": "colegiosantael",
+     "condicion": "V",
+     "cancha": "Complejo Deportivo Arrayanes",
+     "gf": 0,
+     "gc": 0
+    },
+    {
+     "fecha": 10,
+     "ronda": "1ª rueda",
+     "dia": "2026-07-21",
+     "hora": "21:00",
+     "rival": "santaelenalago",
+     "condicion": "L",
+     "cancha": "Complejo Los Nogales",
+     "gf": 1,
+     "gc": 2
+    },
+    {
+     "fecha": 11,
+     "ronda": "1ª rueda",
+     "dia": "2026-06-27",
+     "hora": "11:15",
+     "rival": "elbiofernandez",
+     "condicion": "V",
+     "cancha": "Elbio Fernández",
+     "gf": 1,
+     "gc": 1
+    },
+    {
+     "fecha": 12,
+     "ronda": "1ª rueda",
+     "dia": "2026-09-05",
+     "hora": "11:15",
+     "rival": "independiente",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 1
+    },
+    {
+     "fecha": 13,
+     "ronda": "1ª rueda",
+     "dia": "2026-09-12",
+     "hora": "11:15",
+     "rival": "jmlm",
+     "condicion": "V",
+     "cancha": "La Mennais",
+     "gf": 0,
+     "gc": 2
+    },
+    {
+     "fecha": 14,
+     "ronda": "1ª rueda",
+     "dia": "2026-09-19",
+     "hora": "11:15",
+     "rival": "oldchristiansb",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 1
+    },
+    {
+     "fecha": 15,
+     "ronda": "1ª rueda",
+     "dia": "2026-08-15",
+     "hora": "11:15",
+     "rival": "circulodetenis",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 2
+    }
+   ],
+   "goleadores": []
+  },
+  "reservaAzul": {
+   "nombre": "Reserva Azul",
+   "divisional": "Divisional D",
+   "torneo": "Copa Antel",
+   "fase": "Segunda rueda: Copa de Plata y Permanencia",
+   "ordenOficial": true,
+   "tablas": [
+    {
+     "nombre": "Copa de Plata y Permanencia",
+     "ronda": "Copa de Plata",
+     "zonas": {},
+     "acumula": false,
+     "tabla": [
+      {
+       "equipo": "angloschooluni",
+       "pj": 5,
+       "g": 5,
+       "e": 0,
+       "p": 0,
+       "gf": 13,
+       "gc": 2
+      },
+      {
+       "equipo": "yaguari",
+       "pj": 5,
+       "g": 2,
+       "e": 2,
+       "p": 1,
+       "gf": 9,
+       "gc": 6
+      },
+      {
+       "equipo": "sanjosedelapro",
+       "pj": 5,
+       "g": 2,
+       "e": 1,
+       "p": 2,
+       "gf": 5,
+       "gc": 6
+      },
+      {
+       "equipo": "sancono",
+       "pj": 5,
+       "g": 2,
+       "e": 1,
+       "p": 2,
+       "gf": 6,
+       "gc": 9
+      },
+      {
+       "equipo": "cuc",
+       "pj": 4,
+       "g": 2,
+       "e": 0,
+       "p": 2,
+       "gf": 7,
+       "gc": 5
+      },
+      {
+       "equipo": "latinofutbolcl",
+       "pj": 4,
+       "g": 1,
+       "e": 3,
+       "p": 0,
+       "gf": 10,
+       "gc": 9
+      },
+      {
+       "equipo": "varelauniversi",
+       "pj": 4,
+       "g": 2,
+       "e": 0,
+       "p": 2,
+       "gf": 6,
+       "gc": 6
+      },
+      {
+       "equipo": "trouvilleunive",
+       "pj": 4,
+       "g": 1,
+       "e": 2,
+       "p": 1,
+       "gf": 3,
+       "gc": 2
+      },
+      {
+       "equipo": "clubatleticoli",
+       "pj": 4,
+       "g": 1,
+       "e": 0,
+       "p": 3,
+       "gf": 7,
+       "gc": 11
+      },
+      {
+       "equipo": "nuestraseorade",
+       "pj": 5,
+       "g": 0,
+       "e": 3,
+       "p": 2,
+       "gf": 4,
+       "gc": 8
+      },
+      {
+       "equipo": "clubfuerzaaere",
+       "pj": 5,
+       "g": 1,
+       "e": 0,
+       "p": 4,
+       "gf": 1,
+       "gc": 7
+      }
+     ]
+    },
+    {
+     "nombre": "Primera Rueda, Serie 1 (final)",
+     "ronda": "1ª rueda, Serie 1",
+     "zonas": {},
+     "acumula": false,
+     "tabla": [
+      {
+       "equipo": "isasauniversit",
+       "pj": 11,
+       "g": 7,
+       "e": 2,
+       "p": 2,
+       "gf": 25,
+       "gc": 16
+      },
+      {
+       "equipo": "arquitecturajr",
+       "pj": 11,
+       "g": 6,
+       "e": 5,
+       "p": 0,
+       "gf": 18,
+       "gc": 9
+      },
+      {
+       "equipo": "clubjesusmaria",
+       "pj": 11,
+       "g": 7,
+       "e": 0,
+       "p": 4,
+       "gf": 21,
+       "gc": 12
+      },
+      {
+       "equipo": "younguniversit",
+       "pj": 11,
+       "g": 5,
+       "e": 4,
+       "p": 2,
+       "gf": 16,
+       "gc": 10
+      },
+      {
+       "equipo": "maristasdeport",
+       "pj": 11,
+       "g": 5,
+       "e": 4,
+       "p": 2,
+       "gf": 16,
+       "gc": 10
+      },
+      {
+       "equipo": "cervantesunive",
+       "pj": 11,
+       "g": 5,
+       "e": 3,
+       "p": 3,
+       "gf": 22,
+       "gc": 15
+      },
+      {
+       "equipo": "yaguari",
+       "pj": 11,
+       "g": 5,
+       "e": 3,
+       "p": 3,
+       "gf": 14,
+       "gc": 11
+      },
+      {
+       "equipo": "trouvilleunive",
+       "pj": 11,
+       "g": 3,
+       "e": 3,
+       "p": 5,
+       "gf": 16,
+       "gc": 21
+      },
+      {
+       "equipo": "latinofutbolcl",
+       "pj": 11,
+       "g": 3,
+       "e": 2,
+       "p": 6,
+       "gf": 12,
+       "gc": 18
+      },
+      {
+       "equipo": "cuc",
+       "pj": 11,
+       "g": 2,
+       "e": 2,
+       "p": 7,
+       "gf": 16,
+       "gc": 25
+      },
+      {
+       "equipo": "clubfuerzaaere",
+       "pj": 11,
+       "g": 2,
+       "e": 0,
+       "p": 9,
+       "gf": 8,
+       "gc": 24
+      },
+      {
+       "equipo": "angloschooluni",
+       "pj": 11,
+       "g": 0,
+       "e": 4,
+       "p": 7,
+       "gf": 13,
+       "gc": 26
+      }
+     ]
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": 1,
+     "ronda": "Copa de Plata",
+     "dia": "2026-08-29",
+     "hora": "09:00",
+     "rival": "nuestraseorade",
+     "condicion": "V",
+     "cancha": "Complejo Deportivo H3O",
+     "gf": 3,
+     "gc": 0
+    },
+    {
+     "fecha": 2,
+     "ronda": "Copa de Plata",
+     "dia": "2026-09-05",
+     "hora": "09:00",
+     "rival": "sanjosedelapro",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 1
+    },
+    {
+     "fecha": 4,
+     "ronda": "Copa de Plata",
+     "dia": "2026-09-19",
+     "hora": "09:00",
+     "rival": "clubatleticoli",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 1
+    },
+    {
+     "fecha": 5,
+     "ronda": "Copa de Plata",
+     "dia": "2026-09-26",
+     "hora": "11:15",
+     "rival": "varelauniversi",
+     "condicion": "V",
+     "cancha": "Complejo Independiente Univ.",
+     "gf": 2,
+     "gc": 3
+    },
+    {
+     "fecha": 6,
+     "ronda": "Copa de Plata",
+     "dia": "2026-10-03",
+     "hora": "09:00",
+     "rival": "angloschooluni",
+     "condicion": "L",
+     "cancha": "Complejo CUC"
+    },
+    {
+     "fecha": 7,
+     "ronda": "Copa de Plata",
+     "dia": "2026-10-10",
+     "hora": "09:00",
+     "rival": "latinofutbolcl",
+     "condicion": "L",
+     "cancha": "Complejo CUC"
+    },
+    {
+     "fecha": 8,
+     "ronda": "Copa de Plata",
+     "dia": "2026-10-17",
+     "hora": "11:15",
+     "rival": "trouvilleunive",
+     "condicion": "V",
+     "cancha": "Com. Dep. Club Trouville"
+    },
+    {
+     "fecha": 9,
+     "ronda": "Copa de Plata",
+     "dia": "2026-10-24",
+     "hora": "09:00",
+     "rival": "sancono",
+     "condicion": "L",
+     "cancha": "Complejo CUC"
+    },
+    {
+     "fecha": 10,
+     "ronda": "Copa de Plata",
+     "dia": "2026-10-31",
+     "hora": "11:15",
+     "rival": "clubfuerzaaere",
+     "condicion": "V",
+     "cancha": "Fuerza Aérea"
+    },
+    {
+     "fecha": 11,
+     "ronda": "Copa de Plata",
+     "dia": "2026-11-07",
+     "hora": "09:00",
+     "rival": "yaguari",
+     "condicion": "L",
+     "cancha": "Complejo CUC"
+    },
+    {
+     "fecha": 1,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-04-11",
+     "hora": "11:15",
+     "rival": "isasauniversit",
+     "condicion": "V",
+     "cancha": "Complejo Las Casuarinas",
+     "gf": 0,
+     "gc": 2
+    },
+    {
+     "fecha": 2,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-04-18",
+     "hora": "09:00",
+     "rival": "latinofutbolcl",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 4,
+     "gc": 1
+    },
+    {
+     "fecha": 3,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-04-25",
+     "hora": "09:00",
+     "rival": "cervantesunive",
+     "condicion": "V",
+     "cancha": "Complejo 1gol",
+     "gf": 2,
+     "gc": 2
+    },
+    {
+     "fecha": 4,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-08-15",
+     "hora": "09:00",
+     "rival": "maristasdeport",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 5
+    },
+    {
+     "fecha": 5,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-05-16",
+     "hora": "11:15",
+     "rival": "yaguari",
+     "condicion": "V",
+     "cancha": "Complejo Las Casuarinas",
+     "gf": 1,
+     "gc": 2
+    },
+    {
+     "fecha": 6,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-05-23",
+     "hora": "09:00",
+     "rival": "clubjesusmaria",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 3
+    },
+    {
+     "fecha": 7,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-05-30",
+     "hora": "11:15",
+     "rival": "trouvilleunive",
+     "condicion": "V",
+     "cancha": "Com. Dep. Club Trouville",
+     "gf": 2,
+     "gc": 3
+    },
+    {
+     "fecha": 8,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-06-06",
+     "hora": "09:00",
+     "rival": "arquitecturajr",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 3
+    },
+    {
+     "fecha": 9,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-06-13",
+     "hora": "11:15",
+     "rival": "clubfuerzaaere",
+     "condicion": "V",
+     "cancha": "Fuerza Aérea",
+     "gf": 2,
+     "gc": 0
+    },
+    {
+     "fecha": 10,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-06-20",
+     "hora": "09:00",
+     "rival": "angloschooluni",
+     "condicion": "L",
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 1
+    },
+    {
+     "fecha": 11,
+     "ronda": "1ª rueda, Serie 1",
+     "dia": "2026-06-27",
+     "hora": "11:15",
+     "rival": "younguniversit",
+     "condicion": "V",
+     "cancha": "Complejo Deportivo H3O",
+     "gf": 2,
+     "gc": 3
+    }
+   ],
+   "goleadores": [
+    {
+     "nombre": "Octavio Alvez",
+     "goles": 5
+    },
+    {
+     "nombre": "Matias Duhalde",
+     "goles": 3
+    },
+    {
+     "nombre": "Conrado Diaz",
+     "goles": 2
+    },
+    {
+     "nombre": "Valentino Bartaburu",
+     "goles": 1
+    },
+    {
+     "nombre": "Franco Ezequiel Martinez",
+     "goles": 1
+    },
+    {
+     "nombre": "Axel Nahuel Castaño",
+     "goles": 1
+    },
+    {
+     "nombre": "Renato Olivera",
+     "goles": 1
+    }
+   ]
+  }
+ }
+}

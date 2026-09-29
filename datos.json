@@ -1,5 +1,5 @@
 {
- "actualizado": "28/09/2026",
+ "actualizado": "29/09/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -656,6 +656,24 @@
        "gc": 22
       },
       {
+       "equipo": "sanjuanbautist",
+       "pj": 16,
+       "g": 6,
+       "e": 2,
+       "p": 8,
+       "gf": 23,
+       "gc": 21
+      },
+      {
+       "equipo": "oldivy",
+       "pj": 16,
+       "g": 5,
+       "e": 2,
+       "p": 9,
+       "gf": 19,
+       "gc": 25
+      },
+      {
        "equipo": "cuc",
        "pj": 16,
        "g": 4,
@@ -674,6 +692,15 @@
        "gc": 27
       },
       {
+       "equipo": "colegiosantael",
+       "pj": 16,
+       "g": 3,
+       "e": 6,
+       "p": 7,
+       "gf": 16,
+       "gc": 26
+      },
+      {
        "equipo": "juanxxiii",
        "pj": 16,
        "g": 3,
@@ -681,6 +708,15 @@
        "p": 10,
        "gf": 19,
        "gc": 27
+      },
+      {
+       "equipo": "crandonunivers",
+       "pj": 16,
+       "g": 3,
+       "e": 3,
+       "p": 10,
+       "gf": 10,
+       "gc": 36
       }
      ]
     },
@@ -1074,7 +1110,16 @@
      "gc": 2
     }
    ],
-   "goleadores": []
+   "goleadores": [
+    {
+     "nombre": "Guillermo Andres Rebollo",
+     "goles": 5
+    },
+    {
+     "nombre": "Juan Vicente Cavalleri",
+     "goles": 2
+    }
+   ]
   },
   "reservaAzul": {
    "nombre": "Reserva Azul",
@@ -1542,14 +1587,6 @@
      "goles": 2
     },
     {
-     "nombre": "Franco Ezequiel Martinez",
-     "goles": 1
-    },
-    {
-     "nombre": "Axel Nahuel Castaño",
-     "goles": 1
-    },
-    {
      "nombre": "Brayan Maximiliano Galarza",
      "goles": 1
     },
@@ -1559,6 +1596,14 @@
     },
     {
      "nombre": "Valentino Bartaburu",
+     "goles": 1
+    },
+    {
+     "nombre": "Franco Ezequiel Martinez",
+     "goles": 1
+    },
+    {
+     "nombre": "Axel Nahuel Castaño",
      "goles": 1
     }
    ]

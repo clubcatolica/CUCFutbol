@@ -398,7 +398,7 @@
      "hora": "11:15",
      "rival": "centrocristoba",
      "condicion": "V",
-     "cancha": "Colegio Pío",
+     "cancha": "()",
      "gf": 1,
      "gc": 3
     },
@@ -406,10 +406,10 @@
      "fecha": 2,
      "ronda": "Permanencia",
      "dia": "2026-10-04",
-     "hora": "",
+     "hora": "09:00",
      "rival": "sanjuanbautist",
      "condicion": "L",
-     "cancha": "A confirmar"
+     "cancha": "Complejo CUC"
     },
     {
      "fecha": 3,
@@ -626,6 +626,10 @@
     {
      "nombre": "Facundo Martinez",
      "goles": 8
+    },
+    {
+     "nombre": "Gaston Sanchez",
+     "goles": 1
     }
    ]
   },
@@ -1527,7 +1531,7 @@
    "goleadores": [
     {
      "nombre": "Octavio Alvez",
-     "goles": 5
+     "goles": 6
     },
     {
      "nombre": "Matias Duhalde",
@@ -1538,10 +1542,6 @@
      "goles": 2
     },
     {
-     "nombre": "Valentino Bartaburu",
-     "goles": 1
-    },
-    {
      "nombre": "Franco Ezequiel Martinez",
      "goles": 1
     },
@@ -1550,7 +1550,15 @@
      "goles": 1
     },
     {
+     "nombre": "Brayan Maximiliano Galarza",
+     "goles": 1
+    },
+    {
      "nombre": "Renato Olivera",
+     "goles": 1
+    },
+    {
+     "nombre": "Valentino Bartaburu",
      "goles": 1
     }
    ]

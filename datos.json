@@ -1,5 +1,5 @@
 {
- "actualizado": "29/09/2026",
+ "actualizado": "03/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -1136,9 +1136,9 @@
      "tabla": [
       {
        "equipo": "angloschooluni",
-       "pj": 5,
+       "pj": 6,
        "g": 5,
-       "e": 0,
+       "e": 1,
        "p": 0,
        "gf": 13,
        "gc": 2
@@ -1151,6 +1151,15 @@
        "p": 1,
        "gf": 9,
        "gc": 6
+      },
+      {
+       "equipo": "cuc",
+       "pj": 5,
+       "g": 2,
+       "e": 1,
+       "p": 2,
+       "gf": 7,
+       "gc": 5
       },
       {
        "equipo": "sanjosedelapro",
@@ -1169,15 +1178,6 @@
        "p": 2,
        "gf": 6,
        "gc": 9
-      },
-      {
-       "equipo": "cuc",
-       "pj": 4,
-       "g": 2,
-       "e": 0,
-       "p": 2,
-       "gf": 7,
-       "gc": 5
       },
       {
        "equipo": "latinofutbolcl",
@@ -1404,7 +1404,9 @@
      "hora": "09:00",
      "rival": "angloschooluni",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 0,
+     "gc": 0
     },
     {
      "fecha": 7,

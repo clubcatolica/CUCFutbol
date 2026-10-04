@@ -1,5 +1,5 @@
 {
- "actualizado": "03/10/2026",
+ "actualizado": "04/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -177,6 +177,15 @@
      "acumula": true,
      "tabla": [
       {
+       "equipo": "sanjuanbautist",
+       "pj": 16,
+       "g": 5,
+       "e": 4,
+       "p": 7,
+       "gf": 23,
+       "gc": 24
+      },
+      {
        "equipo": "circulodetenis",
        "pj": 16,
        "g": 5,
@@ -223,12 +232,12 @@
       },
       {
        "equipo": "cuc",
-       "pj": 16,
+       "pj": 17,
        "g": 4,
        "e": 0,
-       "p": 12,
-       "gf": 21,
-       "gc": 35
+       "p": 13,
+       "gf": 22,
+       "gc": 37
       }
      ]
     },
@@ -409,7 +418,9 @@
      "hora": "09:00",
      "rival": "sanjuanbautist",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 2
     },
     {
      "fecha": 3,

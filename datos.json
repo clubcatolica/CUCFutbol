@@ -1,5 +1,5 @@
 {
- "actualizado": "04/10/2026",
+ "actualizado": "05/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -645,7 +645,7 @@
    "goleadores": [
     {
      "nombre": "Facundo Martinez",
-     "goles": 8
+     "goles": 17
     },
     {
      "nombre": "Gaston Sanchez",
@@ -913,15 +913,6 @@
     {
      "fecha": 2,
      "ronda": "Permanencia",
-     "dia": "2026-10-03",
-     "hora": "11:15",
-     "rival": "crandonunivers",
-     "condicion": "V",
-     "cancha": "Campo Dep. Instituto Crandon"
-    },
-    {
-     "fecha": 3,
-     "ronda": "Permanencia",
      "dia": "2026-10-10",
      "hora": "11:15",
      "rival": "colegiosantael",
@@ -929,9 +920,18 @@
      "cancha": "Complejo CUC"
     },
     {
-     "fecha": 4,
+     "fecha": 3,
      "ronda": "Permanencia",
      "dia": "2026-10-17",
+     "hora": "11:15",
+     "rival": "crandonunivers",
+     "condicion": "V",
+     "cancha": "Campo Dep. Instituto Crandon"
+    },
+    {
+     "fecha": 4,
+     "ronda": "Permanencia",
+     "dia": "2026-10-24",
      "hora": "11:15",
      "rival": "circulodetenis",
      "condicion": "V",
@@ -940,7 +940,7 @@
     {
      "fecha": 5,
      "ronda": "Permanencia",
-     "dia": "2026-10-24",
+     "dia": "2026-10-31",
      "hora": "11:15",
      "rival": "oldivy",
      "condicion": "L",
@@ -949,7 +949,7 @@
     {
      "fecha": 6,
      "ronda": "Permanencia",
-     "dia": "2026-10-31",
+     "dia": "2026-11-07",
      "hora": "11:15",
      "rival": "sanjuanbautist",
      "condicion": "V",
@@ -958,7 +958,7 @@
     {
      "fecha": 7,
      "ronda": "Permanencia",
-     "dia": "2026-11-07",
+     "dia": "2026-11-14",
      "hora": "09:00",
      "rival": "juanxxiii",
      "condicion": "V",
@@ -1440,7 +1440,7 @@
     {
      "fecha": 8,
      "ronda": "Copa de Plata",
-     "dia": "2026-10-17",
+     "dia": "2026-10-24",
      "hora": "11:15",
      "rival": "trouvilleunive",
      "condicion": "V",
@@ -1449,7 +1449,7 @@
     {
      "fecha": 9,
      "ronda": "Copa de Plata",
-     "dia": "2026-10-24",
+     "dia": "2026-10-31",
      "hora": "09:00",
      "rival": "sancono",
      "condicion": "L",
@@ -1458,7 +1458,7 @@
     {
      "fecha": 10,
      "ronda": "Copa de Plata",
-     "dia": "2026-10-31",
+     "dia": "2026-11-07",
      "hora": "11:15",
      "rival": "clubfuerzaaere",
      "condicion": "V",
@@ -1467,7 +1467,7 @@
     {
      "fecha": 11,
      "ronda": "Copa de Plata",
-     "dia": "2026-11-07",
+     "dia": "2026-11-14",
      "hora": "09:00",
      "rival": "yaguari",
      "condicion": "L",

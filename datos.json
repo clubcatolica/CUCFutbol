@@ -1,5 +1,5 @@
 {
- "actualizado": "05/10/2026",
+ "actualizado": "06/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -416,7 +416,7 @@
      "hora": "11:15",
      "rival": "centrocristoba",
      "condicion": "V",
-     "cancha": "()",
+     "cancha": "Colegio Pío",
      "gf": 1,
      "gc": 3
     },

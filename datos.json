@@ -1,5 +1,5 @@
 {
- "actualizado": "06/10/2026",
+ "actualizado": "07/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -1165,12 +1165,12 @@
       },
       {
        "equipo": "yaguari",
-       "pj": 5,
-       "g": 2,
+       "pj": 6,
+       "g": 3,
        "e": 2,
        "p": 1,
-       "gf": 9,
-       "gc": 6
+       "gf": 13,
+       "gc": 7
       },
       {
        "equipo": "cuc",
@@ -1236,15 +1236,6 @@
        "gc": 11
       },
       {
-       "equipo": "nuestraseorade",
-       "pj": 5,
-       "g": 0,
-       "e": 3,
-       "p": 2,
-       "gf": 4,
-       "gc": 8
-      },
-      {
        "equipo": "clubfuerzaaere",
        "pj": 5,
        "g": 1,
@@ -1252,6 +1243,15 @@
        "p": 4,
        "gf": 1,
        "gc": 7
+      },
+      {
+       "equipo": "nuestraseorade",
+       "pj": 6,
+       "g": 0,
+       "e": 3,
+       "p": 3,
+       "gf": 5,
+       "gc": 12
       }
      ]
     },

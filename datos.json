@@ -1,5 +1,5 @@
 {
- "actualizado": "07/10/2026",
+ "actualizado": "10/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -1174,11 +1174,11 @@
       },
       {
        "equipo": "cuc",
-       "pj": 5,
-       "g": 2,
+       "pj": 6,
+       "g": 3,
        "e": 1,
        "p": 2,
-       "gf": 7,
+       "gf": 8,
        "gc": 5
       },
       {
@@ -1192,21 +1192,21 @@
       },
       {
        "equipo": "sancono",
-       "pj": 5,
+       "pj": 6,
        "g": 2,
        "e": 1,
-       "p": 2,
-       "gf": 6,
-       "gc": 9
+       "p": 3,
+       "gf": 7,
+       "gc": 12
       },
       {
        "equipo": "latinofutbolcl",
-       "pj": 4,
+       "pj": 5,
        "g": 1,
        "e": 3,
-       "p": 0,
+       "p": 1,
        "gf": 10,
-       "gc": 9
+       "gc": 10
       },
       {
        "equipo": "varelauniversi",
@@ -1218,6 +1218,15 @@
        "gc": 6
       },
       {
+       "equipo": "clubatleticoli",
+       "pj": 5,
+       "g": 2,
+       "e": 0,
+       "p": 3,
+       "gf": 10,
+       "gc": 12
+      },
+      {
        "equipo": "trouvilleunive",
        "pj": 4,
        "g": 1,
@@ -1225,15 +1234,6 @@
        "p": 1,
        "gf": 3,
        "gc": 2
-      },
-      {
-       "equipo": "clubatleticoli",
-       "pj": 4,
-       "g": 1,
-       "e": 0,
-       "p": 3,
-       "gf": 7,
-       "gc": 11
       },
       {
        "equipo": "clubfuerzaaere",
@@ -1435,7 +1435,9 @@
      "hora": "09:00",
      "rival": "latinofutbolcl",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 0
     },
     {
      "fecha": 8,

@@ -668,75 +668,75 @@
      "tabla": [
       {
        "equipo": "circulodetenis",
-       "pj": 16,
-       "g": 5,
+       "pj": 17,
+       "g": 6,
        "e": 6,
        "p": 5,
-       "gf": 22,
-       "gc": 22
-      },
-      {
-       "equipo": "sanjuanbautist",
-       "pj": 16,
-       "g": 6,
-       "e": 2,
-       "p": 8,
-       "gf": 23,
-       "gc": 21
-      },
-      {
-       "equipo": "oldivy",
-       "pj": 16,
-       "g": 5,
-       "e": 2,
-       "p": 9,
-       "gf": 19,
-       "gc": 25
-      },
-      {
-       "equipo": "cuc",
-       "pj": 16,
-       "g": 4,
-       "e": 5,
-       "p": 7,
-       "gf": 17,
+       "gf": 25,
        "gc": 24
       },
       {
-       "equipo": "santaelenalago",
-       "pj": 16,
-       "g": 4,
-       "e": 5,
-       "p": 7,
-       "gf": 17,
-       "gc": 27
+       "equipo": "sanjuanbautist",
+       "pj": 17,
+       "g": 6,
+       "e": 2,
+       "p": 9,
+       "gf": 25,
+       "gc": 24
       },
       {
        "equipo": "colegiosantael",
-       "pj": 16,
-       "g": 3,
+       "pj": 17,
+       "g": 4,
        "e": 6,
        "p": 7,
-       "gf": 16,
-       "gc": 26
+       "gf": 20,
+       "gc": 28
       },
       {
-       "equipo": "juanxxiii",
-       "pj": 16,
-       "g": 3,
-       "e": 3,
-       "p": 10,
+       "equipo": "santaelenalago",
+       "pj": 17,
+       "g": 4,
+       "e": 6,
+       "p": 7,
        "gf": 19,
+       "gc": 29
+      },
+      {
+       "equipo": "oldivy",
+       "pj": 17,
+       "g": 5,
+       "e": 2,
+       "p": 10,
+       "gf": 20,
        "gc": 27
       },
       {
-       "equipo": "crandonunivers",
-       "pj": 16,
-       "g": 3,
+       "equipo": "cuc",
+       "pj": 17,
+       "g": 4,
+       "e": 5,
+       "p": 8,
+       "gf": 19,
+       "gc": 28
+      },
+      {
+       "equipo": "juanxxiii",
+       "pj": 17,
+       "g": 4,
        "e": 3,
        "p": 10,
-       "gf": 10,
-       "gc": 36
+       "gf": 21,
+       "gc": 28
+      },
+      {
+       "equipo": "crandonunivers",
+       "pj": 17,
+       "g": 3,
+       "e": 4,
+       "p": 10,
+       "gf": 12,
+       "gc": 38
       }
      ]
     },
@@ -911,16 +911,18 @@
      "gc": 0
     },
     {
-     "fecha": 2,
+     "fecha": 3,
      "ronda": "Permanencia",
      "dia": "2026-10-10",
      "hora": "11:15",
      "rival": "colegiosantael",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 2,
+     "gc": 4
     },
     {
-     "fecha": 3,
+     "fecha": 4,
      "ronda": "Permanencia",
      "dia": "2026-10-17",
      "hora": "11:15",
@@ -929,7 +931,7 @@
      "cancha": "Campo Dep. Instituto Crandon"
     },
     {
-     "fecha": 4,
+     "fecha": 5,
      "ronda": "Permanencia",
      "dia": "2026-10-24",
      "hora": "11:15",
@@ -938,7 +940,7 @@
      "cancha": "Complejo Juan XXIII"
     },
     {
-     "fecha": 5,
+     "fecha": 6,
      "ronda": "Permanencia",
      "dia": "2026-10-31",
      "hora": "11:15",
@@ -947,7 +949,7 @@
      "cancha": "Complejo CUC"
     },
     {
-     "fecha": 6,
+     "fecha": 7,
      "ronda": "Permanencia",
      "dia": "2026-11-07",
      "hora": "11:15",
@@ -956,7 +958,7 @@
      "cancha": "Campo Dep. San Juan Bautista"
     },
     {
-     "fecha": 7,
+     "fecha": 8,
      "ronda": "Permanencia",
      "dia": "2026-11-14",
      "hora": "09:00",
@@ -1182,6 +1184,15 @@
        "gc": 5
       },
       {
+       "equipo": "varelauniversi",
+       "pj": 5,
+       "g": 3,
+       "e": 0,
+       "p": 2,
+       "gf": 8,
+       "gc": 7
+      },
+      {
        "equipo": "sanjosedelapro",
        "pj": 5,
        "g": 2,
@@ -1209,15 +1220,6 @@
        "gc": 10
       },
       {
-       "equipo": "varelauniversi",
-       "pj": 4,
-       "g": 2,
-       "e": 0,
-       "p": 2,
-       "gf": 6,
-       "gc": 6
-      },
-      {
        "equipo": "clubatleticoli",
        "pj": 5,
        "g": 2,
@@ -1228,12 +1230,12 @@
       },
       {
        "equipo": "trouvilleunive",
-       "pj": 4,
+       "pj": 5,
        "g": 1,
        "e": 2,
-       "p": 1,
-       "gf": 3,
-       "gc": 2
+       "p": 2,
+       "gf": 4,
+       "gc": 4
       },
       {
        "equipo": "clubfuerzaaere",

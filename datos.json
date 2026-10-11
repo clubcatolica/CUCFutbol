@@ -1,5 +1,5 @@
 {
- "actualizado": "10/10/2026",
+ "actualizado": "11/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -177,6 +177,15 @@
      "acumula": true,
      "tabla": [
       {
+       "equipo": "circulodetenis",
+       "pj": 18,
+       "g": 6,
+       "e": 3,
+       "p": 9,
+       "gf": 23,
+       "gc": 28
+      },
+      {
        "equipo": "independiente",
        "pj": 16,
        "g": 5,
@@ -196,39 +205,30 @@
       },
       {
        "equipo": "sanjuanbautist",
-       "pj": 16,
+       "pj": 17,
        "g": 5,
        "e": 4,
-       "p": 7,
-       "gf": 23,
-       "gc": 24
-      },
-      {
-       "equipo": "circulodetenis",
-       "pj": 17,
-       "g": 5,
-       "e": 3,
-       "p": 9,
-       "gf": 20,
-       "gc": 26
-      },
-      {
-       "equipo": "centrocristoba",
-       "pj": 17,
-       "g": 4,
-       "e": 5,
        "p": 8,
-       "gf": 26,
-       "gc": 37
+       "gf": 23,
+       "gc": 28
       },
       {
        "equipo": "clubjesusmaria",
-       "pj": 17,
-       "g": 4,
+       "pj": 18,
+       "g": 5,
        "e": 4,
        "p": 9,
-       "gf": 18,
+       "gf": 22,
        "gc": 30
+      },
+      {
+       "equipo": "centrocristoba",
+       "pj": 18,
+       "g": 4,
+       "e": 5,
+       "p": 9,
+       "gf": 28,
+       "gc": 40
       },
       {
        "equipo": "citypark",

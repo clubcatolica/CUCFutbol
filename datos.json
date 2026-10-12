@@ -177,6 +177,24 @@
      "acumula": true,
      "tabla": [
       {
+       "equipo": "independiente",
+       "pj": 17,
+       "g": 5,
+       "e": 7,
+       "p": 5,
+       "gf": 21,
+       "gc": 28
+      },
+      {
+       "equipo": "olimar",
+       "pj": 18,
+       "g": 6,
+       "e": 3,
+       "p": 9,
+       "gf": 24,
+       "gc": 27
+      },
+      {
        "equipo": "circulodetenis",
        "pj": 18,
        "g": 6,
@@ -184,24 +202,6 @@
        "p": 9,
        "gf": 23,
        "gc": 28
-      },
-      {
-       "equipo": "independiente",
-       "pj": 16,
-       "g": 5,
-       "e": 6,
-       "p": 5,
-       "gf": 21,
-       "gc": 28
-      },
-      {
-       "equipo": "olimar",
-       "pj": 17,
-       "g": 6,
-       "e": 2,
-       "p": 9,
-       "gf": 24,
-       "gc": 27
       },
       {
        "equipo": "sanjuanbautist",
@@ -222,6 +222,15 @@
        "gc": 30
       },
       {
+       "equipo": "citypark",
+       "pj": 18,
+       "g": 5,
+       "e": 3,
+       "p": 10,
+       "gf": 20,
+       "gc": 36
+      },
+      {
        "equipo": "centrocristoba",
        "pj": 18,
        "g": 4,
@@ -231,22 +240,13 @@
        "gc": 40
       },
       {
-       "equipo": "citypark",
-       "pj": 17,
-       "g": 4,
-       "e": 3,
-       "p": 10,
-       "gf": 17,
-       "gc": 35
-      },
-      {
        "equipo": "cuc",
-       "pj": 17,
+       "pj": 18,
        "g": 4,
        "e": 0,
-       "p": 13,
-       "gf": 22,
-       "gc": 37
+       "p": 14,
+       "gf": 23,
+       "gc": 40
       }
      ]
     },
@@ -438,7 +438,9 @@
      "hora": "11:15",
      "rival": "citypark",
      "condicion": "V",
-     "cancha": "City Park"
+     "cancha": "City Park",
+     "gf": 1,
+     "gc": 3
     },
     {
      "fecha": 4,

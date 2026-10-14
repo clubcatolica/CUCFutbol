@@ -1,5 +1,5 @@
 {
- "actualizado": "11/10/2026",
+ "actualizado": "13/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -446,10 +446,10 @@
      "fecha": 4,
      "ronda": "Permanencia",
      "dia": "2026-10-18",
-     "hora": "",
+     "hora": "09:00",
      "rival": "olimar",
      "condicion": "L",
-     "cancha": "A confirmar"
+     "cancha": "Complejo CUC"
     },
     {
      "fecha": 5,
@@ -1136,8 +1136,12 @@
    ],
    "goleadores": [
     {
+     "nombre": "Pablo Mari",
+     "goles": 6
+    },
+    {
      "nombre": "Guillermo Andres Rebollo",
-     "goles": 5
+     "goles": 6
     },
     {
      "nombre": "Juan Vicente Cavalleri",
@@ -1169,12 +1173,12 @@
       },
       {
        "equipo": "yaguari",
-       "pj": 6,
-       "g": 3,
+       "pj": 7,
+       "g": 4,
        "e": 2,
        "p": 1,
-       "gf": 13,
-       "gc": 7
+       "gf": 15,
+       "gc": 8
       },
       {
        "equipo": "cuc",
@@ -1196,12 +1200,12 @@
       },
       {
        "equipo": "sanjosedelapro",
-       "pj": 5,
+       "pj": 6,
        "g": 2,
        "e": 1,
-       "p": 2,
-       "gf": 5,
-       "gc": 6
+       "p": 3,
+       "gf": 6,
+       "gc": 8
       },
       {
        "equipo": "sancono",
@@ -1632,6 +1636,10 @@
     },
     {
      "nombre": "Axel Nahuel Castaño",
+     "goles": 1
+    },
+    {
+     "nombre": "Luciano Nicolas Buzon",
      "goles": 1
     }
    ]

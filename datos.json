@@ -1619,10 +1619,6 @@
      "goles": 2
     },
     {
-     "nombre": "Brayan Maximiliano Galarza",
-     "goles": 1
-    },
-    {
      "nombre": "Renato Olivera",
      "goles": 1
     },
@@ -1640,6 +1636,10 @@
     },
     {
      "nombre": "Luciano Nicolas Buzon",
+     "goles": 1
+    },
+    {
+     "nombre": "Brayan Maximiliano Galarza",
      "goles": 1
     }
    ]

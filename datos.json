@@ -1,5 +1,5 @@
 {
- "actualizado": "14/10/2026",
+ "actualizado": "17/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -670,9 +670,9 @@
      "tabla": [
       {
        "equipo": "circulodetenis",
-       "pj": 17,
+       "pj": 18,
        "g": 6,
-       "e": 6,
+       "e": 7,
        "p": 5,
        "gf": 25,
        "gc": 24
@@ -685,6 +685,24 @@
        "p": 9,
        "gf": 25,
        "gc": 24
+      },
+      {
+       "equipo": "cuc",
+       "pj": 18,
+       "g": 5,
+       "e": 5,
+       "p": 8,
+       "gf": 21,
+       "gc": 29
+      },
+      {
+       "equipo": "oldivy",
+       "pj": 18,
+       "g": 5,
+       "e": 3,
+       "p": 10,
+       "gf": 20,
+       "gc": 27
       },
       {
        "equipo": "colegiosantael",
@@ -705,24 +723,6 @@
        "gc": 29
       },
       {
-       "equipo": "oldivy",
-       "pj": 17,
-       "g": 5,
-       "e": 2,
-       "p": 10,
-       "gf": 20,
-       "gc": 27
-      },
-      {
-       "equipo": "cuc",
-       "pj": 17,
-       "g": 4,
-       "e": 5,
-       "p": 8,
-       "gf": 19,
-       "gc": 28
-      },
-      {
        "equipo": "juanxxiii",
        "pj": 17,
        "g": 4,
@@ -733,12 +733,12 @@
       },
       {
        "equipo": "crandonunivers",
-       "pj": 17,
+       "pj": 18,
        "g": 3,
        "e": 4,
-       "p": 10,
-       "gf": 12,
-       "gc": 38
+       "p": 11,
+       "gf": 13,
+       "gc": 40
       }
      ]
     },
@@ -913,6 +913,17 @@
      "gc": 0
     },
     {
+     "fecha": 2,
+     "ronda": "Permanencia",
+     "dia": "2026-10-17",
+     "hora": "11:15",
+     "rival": "crandonunivers",
+     "condicion": "V",
+     "cancha": "Campo Dep. Instituto Crandon",
+     "gf": 2,
+     "gc": 1
+    },
+    {
      "fecha": 3,
      "ronda": "Permanencia",
      "dia": "2026-10-10",
@@ -926,15 +937,6 @@
     {
      "fecha": 4,
      "ronda": "Permanencia",
-     "dia": "2026-10-17",
-     "hora": "11:15",
-     "rival": "crandonunivers",
-     "condicion": "V",
-     "cancha": "Campo Dep. Instituto Crandon"
-    },
-    {
-     "fecha": 5,
-     "ronda": "Permanencia",
      "dia": "2026-10-24",
      "hora": "11:15",
      "rival": "circulodetenis",
@@ -942,7 +944,7 @@
      "cancha": "Complejo Juan XXIII"
     },
     {
-     "fecha": 6,
+     "fecha": 5,
      "ronda": "Permanencia",
      "dia": "2026-10-31",
      "hora": "11:15",
@@ -951,7 +953,7 @@
      "cancha": "Complejo CUC"
     },
     {
-     "fecha": 7,
+     "fecha": 6,
      "ronda": "Permanencia",
      "dia": "2026-11-07",
      "hora": "11:15",
@@ -960,7 +962,7 @@
      "cancha": "Campo Dep. San Juan Bautista"
     },
     {
-     "fecha": 8,
+     "fecha": 7,
      "ronda": "Permanencia",
      "dia": "2026-11-14",
      "hora": "09:00",
@@ -1164,11 +1166,11 @@
      "tabla": [
       {
        "equipo": "angloschooluni",
-       "pj": 6,
-       "g": 5,
+       "pj": 7,
+       "g": 6,
        "e": 1,
        "p": 0,
-       "gf": 13,
+       "gf": 14,
        "gc": 2
       },
       {
@@ -1199,6 +1201,15 @@
        "gc": 7
       },
       {
+       "equipo": "trouvilleunive",
+       "pj": 6,
+       "g": 2,
+       "e": 2,
+       "p": 2,
+       "gf": 7,
+       "gc": 5
+      },
+      {
        "equipo": "sanjosedelapro",
        "pj": 6,
        "g": 2,
@@ -1227,21 +1238,12 @@
       },
       {
        "equipo": "clubatleticoli",
-       "pj": 5,
+       "pj": 6,
        "g": 2,
        "e": 0,
-       "p": 3,
-       "gf": 10,
-       "gc": 12
-      },
-      {
-       "equipo": "trouvilleunive",
-       "pj": 5,
-       "g": 1,
-       "e": 2,
-       "p": 2,
-       "gf": 4,
-       "gc": 4
+       "p": 4,
+       "gf": 11,
+       "gc": 15
       },
       {
        "equipo": "clubfuerzaaere",
@@ -1254,12 +1256,12 @@
       },
       {
        "equipo": "nuestraseorade",
-       "pj": 6,
+       "pj": 7,
        "g": 0,
        "e": 3,
-       "p": 3,
+       "p": 4,
        "gf": 5,
-       "gc": 12
+       "gc": 13
       }
      ]
     },

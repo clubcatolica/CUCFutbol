@@ -1,5 +1,5 @@
 {
- "actualizado": "17/10/2026",
+ "actualizado": "18/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -177,76 +177,76 @@
      "acumula": true,
      "tabla": [
       {
-       "equipo": "independiente",
-       "pj": 17,
-       "g": 5,
-       "e": 7,
-       "p": 5,
-       "gf": 21,
-       "gc": 28
-      },
-      {
        "equipo": "olimar",
-       "pj": 18,
-       "g": 6,
+       "pj": 19,
+       "g": 7,
        "e": 3,
        "p": 9,
-       "gf": 24,
-       "gc": 27
-      },
-      {
-       "equipo": "circulodetenis",
-       "pj": 18,
-       "g": 6,
-       "e": 3,
-       "p": 9,
-       "gf": 23,
+       "gf": 26,
        "gc": 28
       },
       {
-       "equipo": "sanjuanbautist",
-       "pj": 17,
+       "equipo": "independiente",
+       "pj": 18,
        "g": 5,
-       "e": 4,
-       "p": 8,
-       "gf": 23,
-       "gc": 28
+       "e": 8,
+       "p": 5,
+       "gf": 22,
+       "gc": 29
       },
       {
        "equipo": "clubjesusmaria",
+       "pj": 19,
+       "g": 6,
+       "e": 4,
+       "p": 9,
+       "gf": 26,
+       "gc": 31
+      },
+      {
+       "equipo": "circulodetenis",
+       "pj": 19,
+       "g": 6,
+       "e": 4,
+       "p": 9,
+       "gf": 24,
+       "gc": 29
+      },
+      {
+       "equipo": "centrocristoba",
+       "pj": 19,
+       "g": 5,
+       "e": 5,
+       "p": 9,
+       "gf": 30,
+       "gc": 41
+      },
+      {
+       "equipo": "sanjuanbautist",
        "pj": 18,
        "g": 5,
        "e": 4,
        "p": 9,
-       "gf": 22,
+       "gf": 24,
        "gc": 30
       },
       {
        "equipo": "citypark",
-       "pj": 18,
+       "pj": 19,
        "g": 5,
        "e": 3,
-       "p": 10,
-       "gf": 20,
-       "gc": 36
-      },
-      {
-       "equipo": "centrocristoba",
-       "pj": 18,
-       "g": 4,
-       "e": 5,
-       "p": 9,
-       "gf": 28,
+       "p": 11,
+       "gf": 21,
        "gc": 40
       },
       {
        "equipo": "cuc",
-       "pj": 18,
+       "pj": 19,
        "g": 4,
        "e": 0,
-       "p": 14,
-       "gf": 23,
-       "gc": 40
+       "p": 15,
+       "gf": 24,
+       "gc": 42
       }
      ]
     },
@@ -449,7 +449,9 @@
      "hora": "09:00",
      "rival": "olimar",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 2
     },
     {
      "fecha": 5,
@@ -1211,12 +1213,12 @@
       },
       {
        "equipo": "sanjosedelapro",
-       "pj": 6,
+       "pj": 7,
        "g": 2,
        "e": 1,
-       "p": 3,
-       "gf": 6,
-       "gc": 8
+       "p": 4,
+       "gf": 7,
+       "gc": 10
       },
       {
        "equipo": "sancono",
@@ -1247,12 +1249,12 @@
       },
       {
        "equipo": "clubfuerzaaere",
-       "pj": 5,
-       "g": 1,
+       "pj": 6,
+       "g": 2,
        "e": 0,
        "p": 4,
-       "gf": 1,
-       "gc": 7
+       "gf": 3,
+       "gc": 8
       },
       {
        "equipo": "nuestraseorade",

@@ -1,5 +1,5 @@
 {
- "actualizado": "18/10/2026",
+ "actualizado": "19/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -680,13 +680,22 @@
        "gc": 24
       },
       {
+       "equipo": "colegiosantael",
+       "pj": 18,
+       "g": 5,
+       "e": 6,
+       "p": 7,
+       "gf": 22,
+       "gc": 29
+      },
+      {
        "equipo": "sanjuanbautist",
-       "pj": 17,
+       "pj": 18,
        "g": 6,
        "e": 2,
-       "p": 9,
-       "gf": 25,
-       "gc": 24
+       "p": 10,
+       "gf": 26,
+       "gc": 26
       },
       {
        "equipo": "cuc",
@@ -698,6 +707,15 @@
        "gc": 29
       },
       {
+       "equipo": "santaelenalago",
+       "pj": 18,
+       "g": 4,
+       "e": 7,
+       "p": 7,
+       "gf": 20,
+       "gc": 30
+      },
+      {
        "equipo": "oldivy",
        "pj": 18,
        "g": 5,
@@ -707,31 +725,13 @@
        "gc": 27
       },
       {
-       "equipo": "colegiosantael",
-       "pj": 17,
-       "g": 4,
-       "e": 6,
-       "p": 7,
-       "gf": 20,
-       "gc": 28
-      },
-      {
-       "equipo": "santaelenalago",
-       "pj": 17,
-       "g": 4,
-       "e": 6,
-       "p": 7,
-       "gf": 19,
-       "gc": 29
-      },
-      {
        "equipo": "juanxxiii",
-       "pj": 17,
+       "pj": 18,
        "g": 4,
-       "e": 3,
+       "e": 4,
        "p": 10,
-       "gf": 21,
-       "gc": 28
+       "gf": 22,
+       "gc": 29
       },
       {
        "equipo": "crandonunivers",
@@ -1141,15 +1141,11 @@
    "goleadores": [
     {
      "nombre": "Pablo Mari",
-     "goles": 6
+     "goles": 7
     },
     {
      "nombre": "Guillermo Andres Rebollo",
      "goles": 6
-    },
-    {
-     "nombre": "Juan Vicente Cavalleri",
-     "goles": 2
     }
    ]
   },
@@ -1185,6 +1181,15 @@
        "gc": 8
       },
       {
+       "equipo": "varelauniversi",
+       "pj": 6,
+       "g": 4,
+       "e": 0,
+       "p": 2,
+       "gf": 11,
+       "gc": 8
+      },
+      {
        "equipo": "cuc",
        "pj": 6,
        "g": 3,
@@ -1192,15 +1197,6 @@
        "p": 2,
        "gf": 8,
        "gc": 5
-      },
-      {
-       "equipo": "varelauniversi",
-       "pj": 5,
-       "g": 3,
-       "e": 0,
-       "p": 2,
-       "gf": 8,
-       "gc": 7
       },
       {
        "equipo": "trouvilleunive",
@@ -1231,12 +1227,12 @@
       },
       {
        "equipo": "latinofutbolcl",
-       "pj": 5,
+       "pj": 6,
        "g": 1,
        "e": 3,
-       "p": 1,
-       "gf": 10,
-       "gc": 10
+       "p": 2,
+       "gf": 11,
+       "gc": 13
       },
       {
        "equipo": "clubatleticoli",

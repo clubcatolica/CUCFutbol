@@ -1,5 +1,5 @@
 {
- "actualizado": "22/10/2026",
+ "actualizado": "23/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -187,12 +187,21 @@
       },
       {
        "equipo": "independiente",
-       "pj": 18,
+       "pj": 19,
        "g": 5,
        "e": 8,
-       "p": 5,
-       "gf": 22,
-       "gc": 29
+       "p": 6,
+       "gf": 24,
+       "gc": 32
+      },
+      {
+       "equipo": "sanjuanbautist",
+       "pj": 19,
+       "g": 6,
+       "e": 4,
+       "p": 9,
+       "gf": 27,
+       "gc": 32
       },
       {
        "equipo": "clubjesusmaria",
@@ -220,15 +229,6 @@
        "p": 9,
        "gf": 30,
        "gc": 41
-      },
-      {
-       "equipo": "sanjuanbautist",
-       "pj": 18,
-       "g": 5,
-       "e": 4,
-       "p": 9,
-       "gf": 24,
-       "gc": 30
       },
       {
        "equipo": "citypark",

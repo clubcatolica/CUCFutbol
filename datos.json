@@ -1,5 +1,5 @@
 {
- "actualizado": "23/10/2026",
+ "actualizado": "24/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -672,12 +672,30 @@
      "tabla": [
       {
        "equipo": "circulodetenis",
-       "pj": 18,
+       "pj": 19,
        "g": 6,
        "e": 7,
-       "p": 5,
+       "p": 6,
        "gf": 25,
-       "gc": 24
+       "gc": 25
+      },
+      {
+       "equipo": "cuc",
+       "pj": 19,
+       "g": 6,
+       "e": 5,
+       "p": 8,
+       "gf": 22,
+       "gc": 29
+      },
+      {
+       "equipo": "oldivy",
+       "pj": 19,
+       "g": 6,
+       "e": 3,
+       "p": 10,
+       "gf": 21,
+       "gc": 27
       },
       {
        "equipo": "colegiosantael",
@@ -690,21 +708,12 @@
       },
       {
        "equipo": "sanjuanbautist",
-       "pj": 18,
+       "pj": 19,
        "g": 6,
        "e": 2,
-       "p": 10,
+       "p": 11,
        "gf": 26,
-       "gc": 26
-      },
-      {
-       "equipo": "cuc",
-       "pj": 18,
-       "g": 5,
-       "e": 5,
-       "p": 8,
-       "gf": 21,
-       "gc": 29
+       "gc": 27
       },
       {
        "equipo": "santaelenalago",
@@ -716,31 +725,22 @@
        "gc": 30
       },
       {
-       "equipo": "oldivy",
-       "pj": 18,
-       "g": 5,
-       "e": 3,
-       "p": 10,
-       "gf": 20,
-       "gc": 27
-      },
-      {
        "equipo": "juanxxiii",
-       "pj": 18,
+       "pj": 19,
        "g": 4,
        "e": 4,
-       "p": 10,
-       "gf": 22,
-       "gc": 29
+       "p": 11,
+       "gf": 24,
+       "gc": 32
       },
       {
        "equipo": "crandonunivers",
-       "pj": 18,
-       "g": 3,
+       "pj": 19,
+       "g": 4,
        "e": 4,
        "p": 11,
-       "gf": 13,
-       "gc": 40
+       "gf": 16,
+       "gc": 42
       }
      ]
     },
@@ -943,7 +943,9 @@
      "hora": "11:15",
      "rival": "circulodetenis",
      "condicion": "V",
-     "cancha": "Complejo Juan XXIII"
+     "cancha": "Complejo Juan XXIII",
+     "gf": 1,
+     "gc": 0
     },
     {
      "fecha": 5,
@@ -1182,48 +1184,48 @@
       },
       {
        "equipo": "varelauniversi",
-       "pj": 6,
+       "pj": 7,
        "g": 4,
-       "e": 0,
+       "e": 1,
        "p": 2,
-       "gf": 11,
-       "gc": 8
+       "gf": 13,
+       "gc": 10
       },
       {
        "equipo": "cuc",
-       "pj": 6,
+       "pj": 7,
        "g": 3,
-       "e": 1,
+       "e": 2,
        "p": 2,
        "gf": 8,
        "gc": 5
       },
       {
        "equipo": "trouvilleunive",
-       "pj": 6,
+       "pj": 7,
        "g": 2,
-       "e": 2,
+       "e": 3,
        "p": 2,
        "gf": 7,
        "gc": 5
       },
       {
        "equipo": "sanjosedelapro",
-       "pj": 7,
+       "pj": 8,
        "g": 2,
-       "e": 1,
+       "e": 2,
        "p": 4,
-       "gf": 7,
-       "gc": 10
+       "gf": 8,
+       "gc": 11
       },
       {
        "equipo": "sancono",
-       "pj": 6,
+       "pj": 7,
        "g": 2,
-       "e": 1,
+       "e": 2,
        "p": 3,
-       "gf": 7,
-       "gc": 12
+       "gf": 9,
+       "gc": 14
       },
       {
        "equipo": "latinofutbolcl",
@@ -1254,12 +1256,12 @@
       },
       {
        "equipo": "nuestraseorade",
-       "pj": 7,
+       "pj": 8,
        "g": 0,
-       "e": 3,
+       "e": 4,
        "p": 4,
-       "gf": 5,
-       "gc": 13
+       "gf": 6,
+       "gc": 14
       }
      ]
     },
@@ -1454,7 +1456,9 @@
      "hora": "11:15",
      "rival": "trouvilleunive",
      "condicion": "V",
-     "cancha": "Com. Dep. Club Trouville"
+     "cancha": "Com. Dep. Club Trouville",
+     "gf": 0,
+     "gc": 0
     },
     {
      "fecha": 9,

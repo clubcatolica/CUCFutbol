@@ -1,5 +1,5 @@
 {
- "actualizado": "24/10/2026",
+ "actualizado": "25/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -177,22 +177,31 @@
      "acumula": true,
      "tabla": [
       {
+       "equipo": "clubjesusmaria",
+       "pj": 20,
+       "g": 7,
+       "e": 4,
+       "p": 9,
+       "gf": 28,
+       "gc": 32
+      },
+      {
        "equipo": "olimar",
-       "pj": 19,
+       "pj": 20,
        "g": 7,
        "e": 3,
-       "p": 9,
-       "gf": 26,
-       "gc": 28
+       "p": 10,
+       "gf": 27,
+       "gc": 30
       },
       {
        "equipo": "independiente",
-       "pj": 19,
+       "pj": 20,
        "g": 5,
-       "e": 8,
+       "e": 9,
        "p": 6,
-       "gf": 24,
-       "gc": 32
+       "gf": 27,
+       "gc": 35
       },
       {
        "equipo": "sanjuanbautist",
@@ -202,15 +211,6 @@
        "p": 9,
        "gf": 27,
        "gc": 32
-      },
-      {
-       "equipo": "clubjesusmaria",
-       "pj": 19,
-       "g": 6,
-       "e": 4,
-       "p": 9,
-       "gf": 26,
-       "gc": 31
       },
       {
        "equipo": "circulodetenis",
@@ -241,12 +241,12 @@
       },
       {
        "equipo": "cuc",
-       "pj": 19,
+       "pj": 20,
        "g": 4,
-       "e": 0,
+       "e": 1,
        "p": 15,
-       "gf": 24,
-       "gc": 42
+       "gf": 27,
+       "gc": 45
       }
      ]
     },
@@ -460,7 +460,9 @@
      "hora": "09:00",
      "rival": "independiente",
      "condicion": "V",
-     "cancha": "Complejo Independiente Univ."
+     "cancha": "Complejo Independiente Univ.",
+     "gf": 3,
+     "gc": 3
     },
     {
      "fecha": 6,
@@ -680,6 +682,15 @@
        "gc": 25
       },
       {
+       "equipo": "colegiosantael",
+       "pj": 19,
+       "g": 6,
+       "e": 6,
+       "p": 7,
+       "gf": 26,
+       "gc": 30
+      },
+      {
        "equipo": "cuc",
        "pj": 19,
        "g": 6,
@@ -698,15 +709,6 @@
        "gc": 27
       },
       {
-       "equipo": "colegiosantael",
-       "pj": 18,
-       "g": 5,
-       "e": 6,
-       "p": 7,
-       "gf": 22,
-       "gc": 29
-      },
-      {
        "equipo": "sanjuanbautist",
        "pj": 19,
        "g": 6,
@@ -717,12 +719,12 @@
       },
       {
        "equipo": "santaelenalago",
-       "pj": 18,
+       "pj": 19,
        "g": 4,
        "e": 7,
-       "p": 7,
-       "gf": 20,
-       "gc": 30
+       "p": 8,
+       "gf": 21,
+       "gc": 34
       },
       {
        "equipo": "juanxxiii",
@@ -1166,12 +1168,12 @@
      "tabla": [
       {
        "equipo": "angloschooluni",
-       "pj": 7,
-       "g": 6,
+       "pj": 8,
+       "g": 7,
        "e": 1,
        "p": 0,
-       "gf": 14,
-       "gc": 2
+       "gf": 18,
+       "gc": 5
       },
       {
        "equipo": "yaguari",
@@ -1229,12 +1231,12 @@
       },
       {
        "equipo": "latinofutbolcl",
-       "pj": 6,
+       "pj": 7,
        "g": 1,
        "e": 3,
-       "p": 2,
-       "gf": 11,
-       "gc": 13
+       "p": 3,
+       "gf": 14,
+       "gc": 17
       },
       {
        "equipo": "clubatleticoli",

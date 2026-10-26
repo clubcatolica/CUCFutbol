@@ -177,6 +177,15 @@
      "acumula": true,
      "tabla": [
       {
+       "equipo": "circulodetenis",
+       "pj": 20,
+       "g": 7,
+       "e": 4,
+       "p": 9,
+       "gf": 27,
+       "gc": 29
+      },
+      {
        "equipo": "clubjesusmaria",
        "pj": 20,
        "g": 7,
@@ -205,39 +214,30 @@
       },
       {
        "equipo": "sanjuanbautist",
-       "pj": 19,
+       "pj": 20,
        "g": 6,
        "e": 4,
-       "p": 9,
+       "p": 10,
        "gf": 27,
-       "gc": 32
-      },
-      {
-       "equipo": "circulodetenis",
-       "pj": 19,
-       "g": 6,
-       "e": 4,
-       "p": 9,
-       "gf": 24,
-       "gc": 29
-      },
-      {
-       "equipo": "centrocristoba",
-       "pj": 19,
-       "g": 5,
-       "e": 5,
-       "p": 9,
-       "gf": 30,
-       "gc": 41
+       "gc": 35
       },
       {
        "equipo": "citypark",
-       "pj": 19,
-       "g": 5,
+       "pj": 20,
+       "g": 6,
        "e": 3,
        "p": 11,
-       "gf": 21,
-       "gc": 40
+       "gf": 23,
+       "gc": 41
+      },
+      {
+       "equipo": "centrocristoba",
+       "pj": 20,
+       "g": 5,
+       "e": 5,
+       "p": 10,
+       "gf": 31,
+       "gc": 43
       },
       {
        "equipo": "cuc",

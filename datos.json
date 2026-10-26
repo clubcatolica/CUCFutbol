@@ -1,5 +1,5 @@
 {
- "actualizado": "25/10/2026",
+ "actualizado": "26/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -1212,6 +1212,15 @@
        "gc": 5
       },
       {
+       "equipo": "clubatleticoli",
+       "pj": 7,
+       "g": 3,
+       "e": 0,
+       "p": 4,
+       "gf": 12,
+       "gc": 15
+      },
+      {
        "equipo": "sanjosedelapro",
        "pj": 8,
        "g": 2,
@@ -1239,22 +1248,13 @@
        "gc": 17
       },
       {
-       "equipo": "clubatleticoli",
-       "pj": 6,
-       "g": 2,
-       "e": 0,
-       "p": 4,
-       "gf": 11,
-       "gc": 15
-      },
-      {
        "equipo": "clubfuerzaaere",
-       "pj": 6,
+       "pj": 7,
        "g": 2,
        "e": 0,
-       "p": 4,
+       "p": 5,
        "gf": 3,
-       "gc": 8
+       "gc": 9
       },
       {
        "equipo": "nuestraseorade",

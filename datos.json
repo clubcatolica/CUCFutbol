@@ -1,5 +1,5 @@
 {
- "actualizado": "27/10/2026",
+ "actualizado": "30/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -178,12 +178,12 @@
      "tabla": [
       {
        "equipo": "circulodetenis",
-       "pj": 20,
-       "g": 7,
+       "pj": 21,
+       "g": 8,
        "e": 4,
        "p": 9,
-       "gf": 27,
-       "gc": 29
+       "gf": 32,
+       "gc": 31
       },
       {
        "equipo": "clubjesusmaria",
@@ -241,12 +241,12 @@
       },
       {
        "equipo": "cuc",
-       "pj": 20,
+       "pj": 21,
        "g": 4,
        "e": 1,
-       "p": 15,
-       "gf": 27,
-       "gc": 45
+       "p": 16,
+       "gf": 29,
+       "gc": 50
       }
      ]
     },
@@ -471,7 +471,9 @@
      "hora": "22:15",
      "rival": "circulodetenis",
      "condicion": "L",
-     "cancha": "Com. Dep. Club Trouville"
+     "cancha": "Com. Dep. Club Trouville",
+     "gf": 2,
+     "gc": 5
     },
     {
      "fecha": 7,
@@ -1168,12 +1170,12 @@
      "tabla": [
       {
        "equipo": "angloschooluni",
-       "pj": 8,
-       "g": 7,
+       "pj": 9,
+       "g": 8,
        "e": 1,
        "p": 0,
-       "gf": 18,
-       "gc": 5
+       "gf": 22,
+       "gc": 7
       },
       {
        "equipo": "yaguari",
@@ -1222,12 +1224,12 @@
       },
       {
        "equipo": "sanjosedelapro",
-       "pj": 8,
+       "pj": 9,
        "g": 2,
        "e": 2,
-       "p": 4,
-       "gf": 8,
-       "gc": 11
+       "p": 5,
+       "gf": 10,
+       "gc": 15
       },
       {
        "equipo": "sancono",

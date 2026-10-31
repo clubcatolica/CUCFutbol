@@ -1,5 +1,5 @@
 {
- "actualizado": "30/10/2026",
+ "actualizado": "31/10/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -689,12 +689,12 @@
       },
       {
        "equipo": "colegiosantael",
-       "pj": 19,
+       "pj": 20,
        "g": 6,
        "e": 6,
-       "p": 7,
+       "p": 8,
        "gf": 26,
-       "gc": 30
+       "gc": 33
       },
       {
        "equipo": "cuc",
@@ -716,12 +716,21 @@
       },
       {
        "equipo": "sanjuanbautist",
-       "pj": 19,
+       "pj": 20,
        "g": 6,
        "e": 2,
-       "p": 11,
+       "p": 12,
        "gf": 26,
-       "gc": 27
+       "gc": 28
+      },
+      {
+       "equipo": "juanxxiii",
+       "pj": 20,
+       "g": 5,
+       "e": 4,
+       "p": 11,
+       "gf": 25,
+       "gc": 32
       },
       {
        "equipo": "santaelenalago",
@@ -733,21 +742,12 @@
        "gc": 34
       },
       {
-       "equipo": "juanxxiii",
-       "pj": 19,
-       "g": 4,
-       "e": 4,
-       "p": 11,
-       "gf": 24,
-       "gc": 32
-      },
-      {
        "equipo": "crandonunivers",
-       "pj": 19,
-       "g": 4,
+       "pj": 20,
+       "g": 5,
        "e": 4,
        "p": 11,
-       "gf": 16,
+       "gf": 19,
        "gc": 42
       }
      ]
@@ -1191,6 +1191,15 @@
        "gc": 8
       },
       {
+       "equipo": "cuc",
+       "pj": 8,
+       "g": 4,
+       "e": 2,
+       "p": 2,
+       "gf": 9,
+       "gc": 5
+      },
+      {
        "equipo": "varelauniversi",
        "pj": 7,
        "g": 4,
@@ -1198,15 +1207,6 @@
        "p": 2,
        "gf": 13,
        "gc": 10
-      },
-      {
-       "equipo": "cuc",
-       "pj": 7,
-       "g": 3,
-       "e": 2,
-       "p": 2,
-       "gf": 8,
-       "gc": 5
       },
       {
        "equipo": "trouvilleunive",
@@ -1237,12 +1237,12 @@
       },
       {
        "equipo": "sancono",
-       "pj": 7,
+       "pj": 8,
        "g": 2,
        "e": 2,
-       "p": 3,
+       "p": 4,
        "gf": 9,
-       "gc": 14
+       "gc": 15
       },
       {
        "equipo": "latinofutbolcl",
@@ -1475,7 +1475,9 @@
      "hora": "09:00",
      "rival": "sancono",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 0
     },
     {
      "fecha": 10,

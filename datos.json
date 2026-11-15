@@ -699,15 +699,6 @@
        "gc": 32
       },
       {
-       "equipo": "oldivy",
-       "pj": 21,
-       "g": 7,
-       "e": 4,
-       "p": 10,
-       "gf": 23,
-       "gc": 28
-      },
-      {
        "equipo": "cuc",
        "pj": 21,
        "g": 6,
@@ -715,6 +706,24 @@
        "p": 8,
        "gf": 25,
        "gc": 32
+      },
+      {
+       "equipo": "oldivy",
+       "pj": 22,
+       "g": 7,
+       "e": 4,
+       "p": 11,
+       "gf": 25,
+       "gc": 32
+      },
+      {
+       "equipo": "crandonunivers",
+       "pj": 22,
+       "g": 6,
+       "e": 5,
+       "p": 11,
+       "gf": 25,
+       "gc": 46
       },
       {
        "equipo": "santaelenalago",
@@ -733,15 +742,6 @@
        "p": 12,
        "gf": 28,
        "gc": 30
-      },
-      {
-       "equipo": "crandonunivers",
-       "pj": 21,
-       "g": 5,
-       "e": 5,
-       "p": 11,
-       "gf": 21,
-       "gc": 44
       },
       {
        "equipo": "juanxxiii",
@@ -1188,6 +1188,15 @@
        "gc": 9
       },
       {
+       "equipo": "varelauniversi",
+       "pj": 10,
+       "g": 6,
+       "e": 2,
+       "p": 2,
+       "gf": 20,
+       "gc": 15
+      },
+      {
        "equipo": "yaguari",
        "pj": 10,
        "g": 5,
@@ -1206,13 +1215,13 @@
        "gc": 6
       },
       {
-       "equipo": "varelauniversi",
-       "pj": 9,
-       "g": 5,
-       "e": 2,
-       "p": 2,
-       "gf": 17,
-       "gc": 13
+       "equipo": "trouvilleunive",
+       "pj": 10,
+       "g": 3,
+       "e": 4,
+       "p": 3,
+       "gf": 12,
+       "gc": 9
       },
       {
        "equipo": "clubatleticoli",
@@ -1224,31 +1233,22 @@
        "gc": 20
       },
       {
-       "equipo": "trouvilleunive",
-       "pj": 9,
+       "equipo": "latinofutbolcl",
+       "pj": 10,
        "g": 3,
        "e": 3,
-       "p": 3,
-       "gf": 10,
-       "gc": 7
+       "p": 4,
+       "gf": 17,
+       "gc": 19
       },
       {
        "equipo": "sancono",
-       "pj": 9,
+       "pj": 10,
        "g": 3,
-       "e": 2,
-       "p": 4,
-       "gf": 10,
-       "gc": 15
-      },
-      {
-       "equipo": "latinofutbolcl",
-       "pj": 9,
-       "g": 2,
        "e": 3,
        "p": 4,
-       "gf": 16,
-       "gc": 19
+       "gf": 12,
+       "gc": 17
       },
       {
        "equipo": "sanjosedelapro",
@@ -1261,21 +1261,21 @@
       },
       {
        "equipo": "clubfuerzaaere",
-       "pj": 9,
+       "pj": 10,
        "g": 2,
        "e": 0,
-       "p": 7,
+       "p": 8,
        "gf": 5,
-       "gc": 17
+       "gc": 18
       },
       {
        "equipo": "nuestraseorade",
-       "pj": 9,
+       "pj": 10,
        "g": 0,
        "e": 5,
-       "p": 4,
-       "gf": 7,
-       "gc": 15
+       "p": 5,
+       "gf": 9,
+       "gc": 18
       }
      ]
     },

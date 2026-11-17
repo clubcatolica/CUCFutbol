@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11/2026",
+ "actualizado": "17/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -690,21 +690,21 @@
        "gc": 34
       },
       {
+       "equipo": "cuc",
+       "pj": 22,
+       "g": 7,
+       "e": 7,
+       "p": 8,
+       "gf": 28,
+       "gc": 32
+      },
+      {
        "equipo": "circulodetenis",
        "pj": 22,
        "g": 6,
        "e": 8,
        "p": 8,
        "gf": 29,
-       "gc": 32
-      },
-      {
-       "equipo": "cuc",
-       "pj": 21,
-       "g": 6,
-       "e": 7,
-       "p": 8,
-       "gf": 25,
        "gc": 32
       },
       {
@@ -717,6 +717,15 @@
        "gc": 32
       },
       {
+       "equipo": "santaelenalago",
+       "pj": 22,
+       "g": 5,
+       "e": 8,
+       "p": 9,
+       "gf": 26,
+       "gc": 38
+      },
+      {
        "equipo": "crandonunivers",
        "pj": 22,
        "g": 6,
@@ -726,31 +735,22 @@
        "gc": 46
       },
       {
-       "equipo": "santaelenalago",
-       "pj": 21,
-       "g": 5,
-       "e": 7,
-       "p": 9,
-       "gf": 24,
-       "gc": 36
-      },
-      {
        "equipo": "sanjuanbautist",
-       "pj": 21,
+       "pj": 22,
        "g": 6,
-       "e": 3,
+       "e": 4,
        "p": 12,
-       "gf": 28,
-       "gc": 30
+       "gf": 30,
+       "gc": 32
       },
       {
        "equipo": "juanxxiii",
-       "pj": 21,
+       "pj": 22,
        "g": 5,
        "e": 4,
-       "p": 12,
+       "p": 13,
        "gf": 25,
-       "gc": 33
+       "gc": 36
       }
      ]
     },
@@ -986,7 +986,9 @@
      "hora": "09:00",
      "rival": "juanxxiii",
      "condicion": "V",
-     "cancha": "Complejo Juan XXIII"
+     "cancha": "Complejo Juan XXIII",
+     "gf": 3,
+     "gc": 0
     },
     {
      "fecha": 1,
@@ -1157,7 +1159,7 @@
    "goleadores": [
     {
      "nombre": "Pablo Mari",
-     "goles": 8
+     "goles": 9
     },
     {
      "nombre": "Guillermo Andres Rebollo",
@@ -1193,7 +1195,7 @@
        "g": 6,
        "e": 2,
        "p": 2,
-       "gf": 20,
+       "gf": 21,
        "gc": 15
       },
       {
@@ -1275,7 +1277,7 @@
        "e": 5,
        "p": 5,
        "gf": 9,
-       "gc": 18
+       "gc": 19
       }
      ]
     },
